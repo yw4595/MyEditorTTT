@@ -1,0 +1,22 @@
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\bin\Debug\MyEditor.exe.config
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\bin\Debug\MyEditor.exe
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\bin\Debug\MyEditor.pdb
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.Form1.resources
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.exe
+C:\Users\Wiz\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.pdb
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\bin\Debug\MyEditor.exe.config
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\bin\Debug\MyEditor.exe
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\bin\Debug\MyEditor.pdb
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.Form1.resources
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.exe
+C:\Users\Wiz\Desktop\IGME 201\MyEditor - Copy\obj\Debug\MyEditor.pdb
